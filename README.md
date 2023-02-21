@@ -1,7 +1,6 @@
 - 👋 Hi, I’m saurabh
-- 👀 I’m interested in ...coumputer science
 - 🌱 I’m currently learning ...physics(IITK)
-- 💞️ I’m looking to collaborate on ...anything(cs related)
+- 💞️ I’m looking to collaborate on ...anything(ml related)
 - 📫 How to reach me ...coolcr71999@gmail.com
 
 <!---
