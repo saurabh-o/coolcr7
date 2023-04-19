@@ -1,9 +1,1 @@
-- 👋 Hi, I’m saurabh
-- 🌱 I’m currently learning ...physics(IITK)
-- 💞️ I’m looking to collaborate on ...anything(ml related)
-- 📫 How to reach me ...coolcr71999@gmail.com
-
-<!---
-coolcr7/coolcr7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi i am saurabh, i am interested in leveraging my skills in Data Structures and Algorithms to solve complex problems, while also pursuing my passion for web development. I enjoy facing challenges and constantly striving to learn and improve my skills in a competitive environment
