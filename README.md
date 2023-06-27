@@ -1,1 +1,1 @@
-Hi i am saurabh, i am interested in leveraging my skills in Data Structures and Algorithms to solve complex problems, while also pursuing my passion for web development. I enjoy facing challenges and constantly striving to learn and improve my skills in a competitive environment
+Hi i am saurabh, i enjoy leveraging my skills in Data Structures and Algorithms to solve complex problems, while also pursuing my passion for web development. I enjoy facing challenges and constantly striving to learn and improve my skills in a competitive environment
